@@ -1,4 +1,4 @@
-package homework_readFile;
+﻿package homework_readFile;
 
 import tund_2.Array;
 
@@ -60,7 +60,7 @@ public class mainClass {
 
         System.out.println("\nNende nimed on: "+details.manyHighest(file));
 
-       // Nende nimi on: [Juku, Tiina, Mart]
+       // Nende nimed on: [Juku, Tiina, Mart]
 
     }
 }
