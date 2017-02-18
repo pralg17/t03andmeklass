@@ -21,8 +21,7 @@ public class Voistlusprotokoll{
 	public int suurimTulemus(int tulbanr) throws IOException{
 		BufferedReader lugeja=kysiLugeja();
 		boolean alustatud=false;
-		String rida=lugeja.readLine(); //pealkirjarida
-		rida=lugeja.readLine();
+		String rida=lugeja.readLine();
 		int puuduvaid=0;
 		int maxTulemus=0;
 		while(rida!=null){
