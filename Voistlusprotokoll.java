@@ -39,7 +39,7 @@ public class Voistlusprotokoll{
 			 }
 			 rida=lugeja.readLine();
 		}
-		if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
+		if(puuduvaid>0){System.err.println("Puudu "+puuduvaid);}
 		lugeja.close();
 		return maxTulemus;
 	}
