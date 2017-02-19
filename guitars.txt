@@ -1,0 +1,22 @@
+Brand,model,price,strings,type
+Ibanez,AT100CL-SB,2673.00,6,r
+Ibanez,EGEN8-PLB,877.00,6,r
+Ibanez,GRG121DX-BKF,253.00,6,r
+Vintage,Icon V6mrtbg,507.00,6,r
+Vintage,Reissued V6MSSB,303.00,6,r
+Chapman Guitars,ML-2 AS,482.00,6,r
+Epiphone,Les Paul Standard Ebony,429.00,6,r
+Vintage,V100WR,414.00,6,r
+Chapman Guitars,ML-2 TB LH,537.00,6,l
+Dean Guitars,Dimebag Razorback Exp. LH,1129.00,6,l
+Epiphone,SG G-400 Pro CH LH,389.00,6,l
+Ibanez,GRG170DXL-BKN Lefthand,329.00,6,l
+Ibanez,RG721FML-BIF,838.00,6,l
+Vintage,Icon LV100MRPGM,482.00,6,l
+Vintage,LV100AFD Paradise Lefthand,459.00,6,l
+Dean Guitars,Signature MAB7 Warrior,1336.00,7,r
+Ibanez,RG3727FZ,2108.00,7,r
+Ibanez,RG7421-WNF,476.00,7,r
+Chapman Guitars,ML1-8 RS Rob Scallon,924.00,8,r
+Ibanez,JCRG20138-BGA,4109.00,8,r
+Ibanez,RG8-BK,538.00,8,r
