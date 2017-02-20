@@ -51,21 +51,21 @@ public class uuring{
 
 	}
 
-	public double MituSakust(int mitmes) throws IOException{
+	public double MituReaalist(int mitmes) throws IOException{
 		BufferedReader lugeja=kysilugeja();
 		String rida=lugeja.readLine();
 		rida=lugeja.readLine();
-		int mituS = 0;
+		int mituR = 0;
 		while(rida != null){
 			String[] m = rida.split(",");
 			String kontroll = m[mitmes];
  			if(kontroll.equals ("Tallinna Reaalkool")){
- 				mituS++;
+ 				mituR++;
  			}
  			rida = lugeja.readLine();
  		}
  		lugeja.close();
- 		return mituS;
+ 		return mituR;
 
 
 }
