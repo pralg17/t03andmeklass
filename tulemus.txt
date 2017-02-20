@@ -1,0 +1,4 @@
+Planeedi Jupiter aasta pikkus on 11.865244733802417 Maa aastat
+Planeedi Merkuur aasta pikkus on 0.2436043664719037 Maa aastat
+Planeedi Venus aasta pikkus on 0.6144176054687203 Maa aastat
+
