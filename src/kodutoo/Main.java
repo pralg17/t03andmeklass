@@ -10,3 +10,9 @@ public class Main {
         System.out.println("\nMin wage: " + palgad.minMax("min"));
     }
 }
+
+/*
+Average wage: 497.26
+Max wage: Philip, Ramos, 998.86
+Min wage: Phyllis, Cooper, 0.88
+ */
