@@ -45,7 +45,7 @@ public class reader{
 				  alustatud=true;
 			  }
 			 } catch(Exception e){
-				System.err.println("Esines viga!");
+				e.printStackTrace();
 			 }
 			 rida=lugeja.readLine();
 		}

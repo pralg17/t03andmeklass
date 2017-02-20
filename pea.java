@@ -7,3 +7,12 @@ public class pea{
 		System.out.println(uuring.maksimum(1,2,3));
 	}
 }
+
+/*
+
+[gregness@greeny t03andmeklass]$ java pea
+Suurima palgaga töötaja:
+[Deborah, Webb, 986.09]
+
+
+*/
