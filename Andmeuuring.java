@@ -31,10 +31,14 @@ public class Andmeuuring{
 		while(rida != null){
 			String[] m = rida.split(",");
 			String kontrollm = m[4];
-			if(kontrollm.equals ("jah") || kontrollm.equals ("natuke")){
-				oskab++;
+			try{
+				if(kontrollm.equals ("jah") || kontrollm.equals ("natuke")){
+					oskab++;
+				}
+				rida = lugeja.readLine();
+			} catch(Exception veaandmed){
+				puuduvaid++;
 			}
-			rida = lugeja.readLine();
 		}
 		if(puuduvaid>0){
 			System.err.println("Siit on puudu: "+puuduvaid);
