@@ -9,5 +9,5 @@ public class proov{
 }
 /*
 Suurim tulemus antud võistlusel oli 120.0 punkti
-Saku Gümnaasiumist osales võistlusel 54.0 õpilast
+Tallinna Reaalkoolist osales võistlusel 54.0 õpilast
 */
