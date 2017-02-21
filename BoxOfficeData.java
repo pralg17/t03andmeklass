@@ -8,7 +8,9 @@ public class BoxOfficeData{
 }
 //Filmid 10.10.2015 - 08.10.2016 (Domestic)
 //Raha on toodud $
-//Aasta 2016 suurim avanädalavahetus oli 179139142 dollarit
-//Aasta 2015 suurim avanädalavahetus oli 247966675 dollarit
+//StarWars: The Force Awakens
+//Captain America: Civil War
+//Vastus: Aasta 2016 suurim avanädalavahetus oli 179139142 dollarit
+//Vastus: Aasta 2015 suurim avanädalavahetus oli 247966675 dollarit
 
 
