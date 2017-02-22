@@ -1,0 +1,536 @@
+id,koolinimi,vald,maakond,opilasi
+1,Viimsi Keskkool,Viimsi vald,Harju maakond,1599
+2,Tartu Kivilinna Gümnaasium,Tartu linn,Tartu maakond,1439
+3,Tallinna 21. Kool,Tallinn linn,Harju maakond,1167
+4,Keila Kool,Keila linn,Harju maakond,1133
+5,Tallinna Linnamäe Vene Lütseum,Tallinn linn,Harju maakond,1035
+6,Tartu Tamme Gümnaasium,Tartu linn,Tartu maakond,1025
+7,Gustav Adolfi Gümnaasium,Tallinn linn,Harju maakond,1017
+8,Pärnu Koidula Gümnaasium,Pärnu linn,Pärnu maakond,972
+9,Tallinna Reaalkool,Tallinn linn,Harju maakond,963
+10,Narva Humanitaargümnaasium,Narva linn,Ida-Viru maakond,926
+11,Vanalinna Hariduskolleegium,Tallinn linn,Harju maakond,917
+12,Tallinna Humanitaargümnaasium,Tallinn linn,Harju maakond,906
+13,Jüri Gümnaasium,Rae vald,Harju maakond,905
+14,Tabasalu Ühisgümnaasium,Harku vald,Harju maakond,903
+15,Tallinna Läänemere Gümnaasium,Tallinn linn,Harju maakond,893
+16,Tallinna Saksa Gümnaasium,Tallinn linn,Harju maakond,892
+17,Kadrioru Saksa Gümnaasium,Tallinn linn,Harju maakond,890
+18,Kuressaare Gümnaasium,Kuressaare linn,Saare maakond,886
+19,Tallinna Õismäe Vene Lütseum,Tallinn linn,Harju maakond,885
+20,Narva Pähklimäe Gümnaasium,Narva linn,Ida-Viru maakond,873
+21,Rakvere Reaalgümnaasium,Rakvere linn,Lääne-Viru maakond,871
+22,Saku Gümnaasium,Saku vald,Harju maakond,870
+23,Pelgulinna Gümnaasium,Tallinn linn,Harju maakond,861
+24,Tallinna Lilleküla Gümnaasium,Tallinn linn,Harju maakond,858
+25,Valga Põhikool,Valga linn,Valga maakond,850
+26,Võru Kreutzwaldi Gümnaasium,Võru linn,Võru maakond,845
+27,Tallinna 32. Keskkool,Tallinn linn,Harju maakond,842
+28,Narva Soldino Gümnaasium,Narva linn,Ida-Viru maakond,833
+29,Lasnamäe Gümnaasium,Tallinn linn,Harju maakond,831
+30,Jakob Westholmi Gümnaasium,Tallinn linn,Harju maakond,825
+31,Tallinna Õismäe Gümnaasium,Tallinn linn,Harju maakond,825
+32,Tartu Kommertsgümnaasium,Tartu linn,Tartu maakond,822
+33,Narva Kesklinna Gümnaasium,Narva linn,Ida-Viru maakond,821
+34,Saue Gümnaasium,Saue linn,Harju maakond,812
+35,Tartu Annelinna Gümnaasium,Tartu linn,Tartu maakond,812
+36,Lasnamäe Vene Gümnaasium,Tallinn linn,Harju maakond,810
+37,Pärnu Ülejõe Gümnaasium,Pärnu linn,Pärnu maakond,786
+38,Miina Härma Gümnaasium,Tartu linn,Tartu maakond,784
+39,Tallinna Arte Gümnaasium,Tallinn linn,Harju maakond,781
+40,Pirita Majandusgümnaasium,Tallinn linn,Harju maakond,778
+41,Tallinna Mustamäe Humanitaargümnaasium,Tallinn linn,Harju maakond,776
+42,Tartu Mart Reiniku Kool,Tartu linn,Tartu maakond,776
+43,Tallinna Pae Gümnaasium,Tallinn linn,Harju maakond,764
+44,Pärnu Ühisgümnaasium,Pärnu linn,Pärnu maakond,760
+45,Elva Gümnaasium,Elva linn,Tartu maakond,752
+46,Tallinna Ühisgümnaasium,Tallinn linn,Harju maakond,743
+47,Tallinna 53. Keskkool,Tallinn linn,Harju maakond,738
+48,Rocca al Mare Kool,Tallinn linn,Harju maakond,730
+49,Viljandi Jakobsoni Kool,Viljandi linn,Viljandi maakond,727
+50,Kohila Gümnaasium,Kohila vald,Rapla maakond,725
+51,Rakvere Gümnaasium,Rakvere linn,Lääne-Viru maakond,722
+52,Tallinna Tehnikagümnaasium,Tallinn linn,Harju maakond,721
+53,Põlva Ühisgümnaasium,Põlva linn,Põlva maakond,716
+54,Tartu Karlova Gümnaasium,Tartu linn,Tartu maakond,716
+55,Narva Kreenholmi Gümnaasium,Narva linn,Ida-Viru maakond,712
+56,Tallinna Prantsuse Lütseum,Tallinn linn,Harju maakond,709
+57,Ülenurme Gümnaasium,Ülenurme vald,Tartu maakond,697
+58,Tallinna Rahumäe Põhikool,Tallinn linn,Harju maakond,690
+59,Põltsamaa Ühisgümnaasium,Põltsamaa linn,Jõgeva maakond,686
+60,Tallinna Tõnismäe Reaalkool,Tallinn linn,Harju maakond,677
+61,Saaremaa Ühisgümnaasium,Kuressaare linn,Saare maakond,674
+62,Tartu Descartesi Lütseum,Tartu linn,Tartu maakond,674
+63,Jõhvi Vene Gümnaasium,Jõhvi vald,Ida-Viru maakond,668
+64,Tallinna Mahtra Gümnaasium,Tallinn linn,Harju maakond,668
+65,Viljandi Kesklinna Kool,Viljandi linn,Viljandi maakond,667
+66,Maardu Gümnaasium,Maardu linn,Harju maakond,665
+67,Tallinna Inglise Kolledž,Tallinn linn,Harju maakond,665
+68,Tallinna Kristiine Gümnaasium,Tallinn linn,Harju maakond,664
+69,Kohtla-Järve Ahtme Gümnaasium,Kohtla-Järve linn,Ida-Viru maakond,661
+70,Tallinna Kesklinna Vene Gümnaasium,Tallinn linn,Harju maakond,659
+71,Ehte Humanitaargümnaasium,Tallinn linn,Harju maakond,645
+72,Tartu Vene Lütseum,Tartu linn,Tartu maakond,644
+73,Jõhvi Gümnaasium,Jõhvi vald,Ida-Viru maakond,637
+74,Tallinna Mustamäe Reaalgümnaasium,Tallinn linn,Harju maakond,632
+75,Tallinna Laagna Gümnaasium,Tallinn linn,Harju maakond,628
+76,Tallinna Nõmme Gümnaasium,Tallinn linn,Harju maakond,624
+77,Laagri Kool,Saue vald,Harju maakond,616
+78,Tallinna Kuristiku Gümnaasium,Tallinn linn,Harju maakond,616
+79,Tallinna Mustjõe Gümnaasium,Tallinn linn,Harju maakond,604
+80,Tallinna Järveotsa Gümnaasium,Tallinn linn,Harju maakond,600
+81,Tallinna Mustamäe Gümnaasium,Tallinn linn,Harju maakond,589
+82,Tartu Kunstigümnaasium,Tartu linn,Tartu maakond,589
+83,Rapla Vesiroosi Gümnaasium,Rapla vald,Rapla maakond,581
+84,Märjamaa Gümnaasium,Märjamaa vald,Rapla maakond,570
+85,Türi Põhikool,Türi vald,Järva maakond,569
+86,Tapa Gümnaasium,Tapa vald,Lääne-Viru maakond,563
+87,Paide Gümnaasium,Paide linn,Järva maakond,562
+88,Haapsalu Gümnaasium,Haapsalu linn,Lääne maakond,559
+89,Jõgeva Gümnaasium,Jõgeva linn,Jõgeva maakond,559
+90,Kadrina Keskkool,Kadrina vald,Lääne-Viru maakond,556
+91,Kohtla-Järve Tammiku Gümnaasium,Kohtla-Järve linn,Ida-Viru maakond,550
+92,Paide Ühisgümnaasium,Paide linn,Järva maakond,549
+93,Kiili Gümnaasium,Kiili vald,Harju maakond,547
+94,Pärnu Vene Gümnaasium,Pärnu linn,Pärnu maakond,546
+95,Hugo Treffneri Gümnaasium,Tartu linn,Tartu maakond,544
+96,Rapla Ühisgümnaasium,Rapla vald,Rapla maakond,541
+97,Kuusalu Keskkool,Kuusalu vald,Harju maakond,536
+98,Kohtla-Järve Slaavi Põhikool,Kohtla-Järve linn,Ida-Viru maakond,525
+99,Haabersti Vene Gümnaasium,Tallinn linn,Harju maakond,524
+100,Tallinna Nõmme Põhikool,Tallinn linn,Harju maakond,522
+101,Kose Gümnaasium,Kose vald,Harju maakond,507
+102,Kohtla-Järve Kesklinna Gümnaasium,Kohtla-Järve linn,Ida-Viru maakond,503
+103,Narva 6. Kool,Narva linn,Ida-Viru maakond,502
+104,Sillamäe Kannuka Kool,Sillamäe linn,Ida-Viru maakond,501
+105,Tartu Raatuse Gümnaasium,Tartu linn,Tartu maakond,500
+106,Tallinna Kunstigümnaasium,Tallinn linn,Harju maakond,498
+107,Sillamäe Vanalinna Kool,Sillamäe linn,Ida-Viru maakond,484
+108,Pärnu Kuninga Tänava Põhikool,Pärnu linn,Pärnu maakond,481
+109,Pärnu Vanalinna Põhikool,Pärnu linn,Pärnu maakond,476
+110,Kohtla-Järve Ühisgümnaasium,Kohtla-Järve linn,Ida-Viru maakond,472
+111,Viljandi Gümnaasium,Viljandi linn,Viljandi maakond,465
+112,Tõrva Gümnaasium,Tõrva linn,Valga maakond,464
+113,Räpina Ühisgümnaasium,Räpina vald,Põlva maakond,462
+114,Viljandi Paalalinna Kool,Viljandi linn,Viljandi maakond,462
+115,Lähte Ühisgümnaasium,Tartu vald,Tartu maakond,446
+116,Karjamaa Gümnaasium,Tallinn linn,Harju maakond,445
+117,Narva Vanalinna Riigikool,Narva linn,Ida-Viru maakond,438
+118,Tartu Veeriku Kool,Tartu linn,Tartu maakond,438
+119,Kohtla-Järve Järve Gümnaasium,Kohtla-Järve linn,Ida-Viru maakond,433
+120,Paikuse Põhikool,Paikuse vald,Pärnu maakond,431
+121,Kärdla Ühisgümnaasium,Kärdla linn,Hiiu maakond,429
+122,Võru Kesklinna Gümnaasium,Võru linn,Võru maakond,428
+123,Lasnamäe Üldgümnaasium,Tallinn linn,Harju maakond,426
+124,Kehra Gümnaasium,Anija vald,Harju maakond,421
+125,Tartu Kesklinna Kool,Tartu linn,Tartu maakond,419
+126,Tallinna Juhkentali Gümnaasium,Tallinn linn,Harju maakond,417
+127,Otepää Gümnaasium,Otepää vald,Valga maakond,409
+128,Tartu Jaan Poska Gümnaasium,Tartu linn,Tartu maakond,407
+129,Valga Vene Gümnaasium,Valga linn,Valga maakond,406
+130,Tamsalu Gümnaasium,Tamsalu vald,Lääne-Viru maakond,404
+131,Jõgeva Ühisgümnaasium,Jõgeva linn,Jõgeva maakond,396
+132,Nõo Põhikool,Nõo vald,Tartu maakond,387
+133,Pärnu Rääma Põhikool,Pärnu linn,Pärnu maakond,382
+134,Maardu Põhikool,Maardu linn,Harju maakond,379
+135,Kilingi-Nõmme Gümnaasium,Saarde vald,Pärnu maakond,377
+136,Kuressaare Vanalinna Kool,Kuressaare linn,Saare maakond,374
+137,Liivalaia Gümnaasium,Tallinn linn,Harju maakond,374
+138,Peetri Lasteaed-Põhikool,Rae vald,Harju maakond,372
+139,Tartu Forseliuse Gümnaasium,Tartu linn,Tartu maakond,371
+140,Vinni-Pajusti Gümnaasium,Vinni vald,Lääne-Viru maakond,366
+141,Tallinna Ranniku Gümnaasium,Tallinn linn,Harju maakond,362
+142,Kunda Ühisgümnaasium,Kunda linn,Lääne-Viru maakond,358
+143,Antsla Gümnaasium,Antsla vald,Võru maakond,354
+144,Kalamaja Põhikool,Tallinn linn,Harju maakond,354
+145,Tallinna Pääsküla Gümnaasium,Tallinn linn,Harju maakond,353
+146,Pärnu Sütevaka Humanitaargümnaasium,Pärnu linn,Pärnu maakond,352
+147,August Kitzbergi nimeline Gümnaasium,Karksi vald,Viljandi maakond,350
+148,Loksa Gümnaasium,Loksa linn,Harju maakond,350
+149,Tartu Katoliku Hariduskeskus,Tartu linn,Tartu maakond,347
+150,Vändra Gümnaasium,Vändra (alev) vald,Pärnu maakond,346
+151,Pärnu Hansagümnaasium,Pärnu linn,Pärnu maakond,344
+152,Rakvere Eragümnaasium,Rakvere linn,Lääne-Viru maakond,336
+153,Parksepa Keskkool,Võru vald,Võru maakond,332
+154,Väike-Maarja Gümnaasium,Väike-Maarja vald,Lääne-Viru maakond,331
+155,Tartu Hiie Kool,Tartu linn,Tartu maakond,327
+156,Kiviõli Vene Gümnaasium,Kiviõli linn,Ida-Viru maakond,325
+157,Haapsalu Wiedemanni Gümnaasium,Haapsalu linn,Lääne maakond,323
+158,Loo Keskkool,Jõelähtme vald,Harju maakond,312
+159,Tarvastu Gümnaasium,Tarvastu vald,Viljandi maakond,312
+160,Tallinna Juudi Kool,Tallinn linn,Harju maakond,310
+161,Kiviõli 1. Keskkool,Kiviõli linn,Ida-Viru maakond,306
+162,Tallinna Kivimäe Põhikool,Tallinn linn,Harju maakond,306
+163,Tallinna Muusikakeskkool,Tallinn linn,Harju maakond,299
+164,Haljala Gümnaasium,Haljala vald,Lääne-Viru maakond,296
+165,Sindi Gümnaasium,Sindi linn,Pärnu maakond,291
+166,Merivälja Kool,Tallinn linn,Harju maakond,281
+167,Tallinna Paekaare Gümnaasium,Tallinn linn,Harju maakond,281
+168,Koeru Keskkool,Koeru vald,Järva maakond,279
+169,Ristiku Põhikool,Tallinn linn,Harju maakond,279
+170,Audentese Erakool,Tallinn linn,Harju maakond,278
+171,Lasnamäe Põhikool,Tallinn linn,Harju maakond,275
+172,Põlva Keskkool,Põlva linn,Põlva maakond,274
+173,Suure-Jaani Gümnaasium,Suure-Jaani vald,Viljandi maakond,268
+174,Aruküla Põhikool,Raasiku vald,Harju maakond,265
+175,Pärnu Raeküla Kool,Pärnu linn,Pärnu maakond,262
+176,Tallinna Sikupilli Keskkool,Tallinn linn,Harju maakond,261
+177,Oskar Lutsu Palamuse Gümnaasium,Palamuse vald,Jõgeva maakond,260
+178,Tartu Herbert Masingu Kool,Tartu linn,Tartu maakond,253
+179,Audru Keskkool,Audru vald,Pärnu maakond,245
+180,Nõo Reaalgümnaasium,Nõo vald,Tartu maakond,242
+181,Haapsalu Linna Algkool,Haapsalu linn,Lääne maakond,241
+182,Puhja Gümnaasium,Puhja vald,Tartu maakond,236
+183,Käina Gümnaasium,Käina vald,Hiiu maakond,234
+184,Toila Gümnaasium,Toila vald,Ida-Viru maakond,232
+185,Kohtla-Järve Järve Vene Gümnaasium,Kohtla-Järve linn,Ida-Viru maakond,231
+186,Paldiski Vene Gümnaasium,Paldiski linn,Harju maakond,230
+187,Sakala Eragümnaasium,Tallinn linn,Harju maakond,230
+188,Juhan Liivi nim. Alatskivi Keskkool,Alatskivi vald,Tartu maakond,225
+189,Vastseliina Gümnaasium,Vastseliina vald,Võru maakond,224
+190,Narva Eesti Gümnaasium,Narva linn,Ida-Viru maakond,223
+191,Orissaare Gümnaasium,Orissaare vald,Saare maakond,218
+192,Lihula Gümnaasium,Lihula vald,Lääne maakond,217
+193,Tallinna Tondi Põhikool,Tallinn linn,Harju maakond,216
+194,Võru 1. Põhikool,Võru linn,Võru maakond,216
+195,Luunja Keskkool,Luunja vald,Tartu maakond,215
+196,Narva Paju Kool,Narva linn,Ida-Viru maakond,215
+197,Kallavere Keskkool,Maardu linn,Harju maakond,213
+198,Rõngu Keskkool,Rõngu vald,Tartu maakond,213
+199,Narva Peetri Kool,Narva linn,Ida-Viru maakond,212
+200,Abja Gümnaasium,Abja vald,Viljandi maakond,211
+201,Kanepi Gümnaasium,Kanepi vald,Põlva maakond,204
+202,Järva-Jaani Gümnaasium,Järva-Jaani vald,Järva maakond,203
+203,Tapa Vene Gümnaasium,Tapa vald,Lääne-Viru maakond,203
+204,Häädemeeste Keskkool,Häädemeeste vald,Pärnu maakond,201
+205,Rakvere Põhikool,Rakvere linn,Lääne-Viru maakond,199
+206,Tartu Waldorfgümnaasium,Tartu linn,Tartu maakond,198
+207,Taebla Gümnaasium,Taebla vald,Lääne maakond,197
+208,Kõrveküla Põhikool,Tartu vald,Tartu maakond,196
+209,Pärnu-Jaagupi Gümnaasium,Halinga vald,Pärnu maakond,195
+210,Avinurme Gümnaasium,Avinurme vald,Ida-Viru maakond,189
+211,Püünsi Kool,Viimsi vald,Harju maakond,188
+212,Tartu Erakool,Tartu linn,Tartu maakond,187
+213,Võhma Gümnaasium,Võhma linn,Viljandi maakond,185
+214,Keila Ühisgümnaasium,Keila linn,Harju maakond,182
+215,Audentese Spordigümnaasium,Tallinn linn,Harju maakond,177
+216,Leisi Keskkool,Leisi vald,Saare maakond,175
+217,Erakool Intellekt,Kohtla-Järve linn,Ida-Viru maakond,174
+218,Kambja Põhikool,Kambja vald,Tartu maakond,174
+219,Võnnu Keskkool,Võnnu vald,Tartu maakond,174
+220,Puiga Põhikool,Võru vald,Võru maakond,172
+221,Laulasmaa Kool,Keila vald,Harju maakond,171
+222,Tõstamaa Keskkool,Tõstamaa vald,Pärnu maakond,166
+223,Rõuge Põhikool,Rõuge vald,Võru maakond,165
+224,Ilmatsalu Põhikool,Tähtvere vald,Tartu maakond,164
+225,Tori Põhikool,Tori vald,Pärnu maakond,164
+226,Kurtna Kool,Saku vald,Harju maakond,163
+227,Sõmeru Põhikool,Sõmeru vald,Lääne-Viru maakond,161
+228,Noarootsi Gümnaasium,Noarootsi vald,Lääne maakond,160
+229,Paldiski Gümnaasium,Paldiski linn,Harju maakond,160
+230,Sillamäe Gümnaasium,Sillamäe linn,Ida-Viru maakond,159
+231,Mammaste Lasteaed-Algkool,Põlva vald,Põlva maakond,158
+232,Türi Ühisgümnaasium,Türi vald,Järva maakond,158
+233,Tallinna 37. Keskkool,Tallinn linn,Harju maakond,156
+234,Turba Gümnaasium,Nissi vald,Harju maakond,155
+235,Aravete Keskkool,Ambla vald,Järva maakond,154
+236,Rannu Keskkool,Rannu vald,Tartu maakond,153
+237,Valga Gümnaasium,Valga linn,Valga maakond,153
+238,Mustvee Vene Gümnaasium,Mustvee linn,Jõgeva maakond,152
+239,Kullamaa Keskkool,Kullamaa vald,Lääne maakond,151
+240,Iisaku Gümnaasium,Iisaku vald,Ida-Viru maakond,150
+241,Harkujärve Põhikool,Harku vald,Harju maakond,149
+242,Kehtna Põhikool,Kehtna vald,Rapla maakond,148
+243,Narva-Jõesuu Keskkool,Narva-Jõesuu linn,Ida-Viru maakond,148
+244,Tsirguliina Keskkool,Tõlliste vald,Valga maakond,144
+245,E.Vilde nim. Juuru Gümnaasium,Juuru vald,Rapla maakond,143
+246,Nõmme Erakool,Tallinn linn,Harju maakond,138
+247,Kääpa Põhikool,Lasva vald,Võru maakond,137
+248,Raasiku Põhikool,Raasiku vald,Harju maakond,137
+249,Vasalemma Põhikool,Vasalemma vald,Harju maakond,137
+250,C.R.Jakobsoni nim.Torma Põhikool,Torma vald,Jõgeva maakond,134
+251,Kolga Keskkool,Kuusalu vald,Harju maakond,134
+252,Tartu Kroonuaia Kool,Tartu linn,Tartu maakond,134
+253,Lüganuse Keskkool,Lüganuse vald,Ida-Viru maakond,131
+254,Mustvee Gümnaasium,Mustvee linn,Jõgeva maakond,130
+255,Rakke Gümnaasium,Rakke vald,Lääne-Viru maakond,130
+256,Aseri Keskkool,Aseri vald,Ida-Viru maakond,128
+257,Järvakandi Gümnaasium,Järvakandi vald,Rapla maakond,128
+258,Ääsmäe Põhikool,Saue vald,Harju maakond,128
+259,Valtu Põhikool,Kehtna vald,Rapla maakond,126
+260,Õismäe Kool,Tallinn linn,Harju maakond,126
+261,Mäetaguse Põhikool,Mäetaguse vald,Ida-Viru maakond,125
+262,Värska Gümnaasium,Värska vald,Põlva maakond,125
+263,Rakvere Linna Algkool,Rakvere linn,Lääne-Viru maakond,124
+264,Puurmani Gümnaasium,Puurmani vald,Jõgeva maakond,121
+265,Ruila Põhikool,Kernu vald,Harju maakond,120
+266,Salme Põhikool,Salme vald,Saare maakond,118
+267,Oru Põhikool,Kose vald,Harju maakond,117
+268,Tabivere Gümnaasium,Tabivere vald,Jõgeva maakond,117
+269,Uuemõisa Lasteaed-Algkool,Ridala vald,Lääne maakond,117
+270,Haapsalu Sanatoorne Internaatkool,Haapsalu linn,Lääne maakond,116
+271,Heimtali Põhikool,Pärsti vald,Viljandi maakond,116
+272,Nissi Põhikool,Nissi vald,Harju maakond,114
+273,Puka Keskkool,Puka vald,Valga maakond,113
+274,Väätsa Põhikool,Väätsa vald,Järva maakond,113
+275,Keeni Põhikool,Sangaste vald,Valga maakond,112
+276,Vaida Põhikool,Rae vald,Harju maakond,111
+277,Kärla Põhikool,Kärla vald,Saare maakond,110
+278,Mooste Põhikool,Mooste vald,Põlva maakond,110
+279,Osula Põhikool,Sõmerpalu vald,Võru maakond,108
+280,Vara Põhikool,Vara vald,Tartu maakond,107
+281,Kuldre Kool,Urvaste vald,Võru maakond,106
+282,Lagedi Põhikool,Rae vald,Harju maakond,105
+283,Uulu Põhikool,Tahkuranna vald,Pärnu maakond,104
+284,Varstu Keskkool,Varstu vald,Võru maakond,104
+285,Jõõpre Kool,Audru vald,Pärnu maakond,103
+286,Pärnu Vabakool,Pärnu linn,Pärnu maakond,103
+287,Viluste Põhikool,Veriora vald,Põlva maakond,103
+288,Kalmetu Põhikool,Viiratsi vald,Viljandi maakond,102
+289,Vasta Kool,Viru-Nigula vald,Lääne-Viru maakond,102
+290,Eurogümnaasium,Tallinn linn,Harju maakond,101
+291,Halliste Põhikool,Halliste vald,Viljandi maakond,101
+292,Kallaste Keskkool,Kallaste linn,Tartu maakond,101
+293,Laupa Põhikool,Türi vald,Järva maakond,101
+294,Valjala Põhikool,Valjala vald,Saare maakond,100
+295,Ridala Põhikool,Ridala vald,Lääne maakond,99
+296,Narva Õigeusu Humanitaarkool,Narva linn,Ida-Viru maakond,98
+297,Vaeküla Kool,Sõmeru vald,Lääne-Viru maakond,98
+298,Kammeri Kool,Kambja vald,Tartu maakond,96
+299,Kostivere Kool,Jõelähtme vald,Harju maakond,96
+300,Anna Haava nim Pala Kool,Pala vald,Jõgeva maakond,94
+301,Haapsalu Nikolai Kool,Haapsalu linn,Lääne maakond,94
+302,Pühajärve Põhikool,Otepää vald,Valga maakond,94
+303,Vana-Vigala Põhikool,Vigala vald,Rapla maakond,93
+304,Adavere Põhikool,Põltsamaa vald,Jõgeva maakond,91
+305,Tilsi Põhikool,Laheda vald,Põlva maakond,91
+306,Ahtme Kool,Kohtla-Järve linn,Ida-Viru maakond,90
+307,Surju Põhikool,Surju vald,Pärnu maakond,90
+308,Aste Põhikool,Kaarma vald,Saare maakond,89
+309,Oru Kool,Oru vald,Lääne maakond,89
+310,Sauga Põhikool,Sauga vald,Pärnu maakond,89
+311,Sillamäe Eesti Põhikool,Sillamäe linn,Ida-Viru maakond,89
+312,Juurikaru Põhikool,Vändra vald,Pärnu maakond,87
+313,Kohtla Põhikool,Kohtla-Nõmme vald,Ida-Viru maakond,87
+314,Lustivere Põhikool,Põltsamaa vald,Jõgeva maakond,87
+315,Vastse-Kuuste Kool,Vastse-Kuuste vald,Põlva maakond,87
+316,Aruküla Vaba Waldorfkool,Raasiku vald,Harju maakond,86
+317,Koigi Kool,Koigi vald,Järva maakond,86
+318,Muhu Põhikool,Muhu vald,Saare maakond,86
+319,Porkuni kool,Tamsalu vald,Lääne-Viru maakond,86
+320,Ämari Põhikool,Vasalemma vald,Harju maakond,85
+321,Palupera Põhikool,Palupera vald,Valga maakond,84
+322,Are Põhikool,Are vald,Pärnu maakond,82
+323,Eesti Rahvusvaheline Kool,Tallinn linn,Harju maakond,82
+324,Imavere Põhikool,Imavere vald,Järva maakond,82
+325,Kaiu Põhikool,Kaiu vald,Rapla maakond,82
+326,Krabi Põhikool,Varstu vald,Võru maakond,82
+327,Raikküla Kool,Raikküla vald,Rapla maakond,82
+328,Kiigemetsa Kool,Jõgeva vald,Jõgeva maakond,81
+329,Retla Kool,Türi vald,Järva maakond,81
+330,Vääna Mõisakool,Harku vald,Harju maakond,81
+331,Alavere Põhikool,Anija vald,Harju maakond,80
+332,Emmaste Põhikool,Emmaste vald,Hiiu maakond,80
+333,Uhtna Põhikool,Sõmeru vald,Lääne-Viru maakond,80
+334,Voore Põhikool,Saare vald,Jõgeva maakond,80
+335,Saarepeedi Kool,Saarepeedi vald,Viljandi maakond,79
+336,Tallinna Vaba Waldorfkool,Tallinn linn,Harju maakond,79
+337,Albu Põhikool,Albu vald,Järva maakond,78
+338,Hagudi Põhikool,Rapla vald,Rapla maakond,78
+339,Tartu Maarja Kool,Tartu linn,Tartu maakond,78
+340,Valga Jaanikese Kool,Valga linn,Valga maakond,78
+341,Laekvere Põhikool,Laekvere vald,Lääne-Viru maakond,77
+342,Orava Põhikool,Orava vald,Põlva maakond,76
+343,Sillaotsa Kool,Haaslava vald,Tartu maakond,76
+344,Erakool Läte,Keila linn,Harju maakond,75
+345,Friedebert Tuglase nim. Ahja Kool,Ahja vald,Põlva maakond,75
+346,Lauka Põhikool,Kõrgessaare vald,Hiiu maakond,75
+347,Pärnjõe Põhikool,Vändra vald,Pärnu maakond,75
+348,Palivere Põhikool,Taebla vald,Lääne maakond,74
+349,Ämmuste Kool,Tarvastu vald,Viljandi maakond,74
+350,Olustvere Põhikool,Suure-Jaani vald,Viljandi maakond,73
+351,Roosna-Alliku Põhikool,Roosna-Alliku vald,Järva maakond,73
+352,Kolga-Jaani Põhikool,Kolga-Jaani vald,Viljandi maakond,72
+353,Mõniste Kool,Mõniste vald,Võru maakond,72
+354,Tallinna Konstantin Pätsi Vabaõhukool,Tallinn linn,Harju maakond,72
+355,Haanja Kool,Haanja vald,Võru maakond,71
+356,Hummuli Põhikool,Hummuli vald,Valga maakond,71
+357,Tallinna Soome Kool,Tallinn linn,Harju maakond,71
+358,Padise Põhikool,Padise vald,Harju maakond,70
+359,Risti Põhikool,Risti vald,Lääne maakond,70
+360,Sõmerpalu Põhikool,Sõmerpalu vald,Võru maakond,70
+361,Ferdinand von Wrangelli nimeline Roela Lasteaed-Põ,Vinni vald,Lääne-Viru maakond,69
+362,Lasila Põhikool,Rakvere vald,Lääne-Viru maakond,69
+363,Ardu Kool,Kõue vald,Harju maakond,68
+364,Lüllemäe Põhikool,Karula vald,Valga maakond,68
+365,Palade Põhikool,Pühalepa vald,Hiiu maakond,68
+366,Laiuse Põhikool,Jõgeva vald,Jõgeva maakond,67
+367,Melliste Algkool-Lasteaed,Mäksa vald,Tartu maakond,67
+368,Viiratsi Kool,Viiratsi vald,Viljandi maakond,67
+369,Kirivere Põhikool,Kõo vald,Viljandi maakond,66
+370,Simuna Kool,Väike-Maarja vald,Lääne-Viru maakond,66
+371,Tallinna Balletikooli üldharidusklassid,Tallinn linn,Harju maakond,66
+372,Tallinna Heleni Kool,Tallinn linn,Harju maakond,66
+373,Maidla Kool,Maidla vald,Ida-Viru maakond,65
+374,Noarootsi Kool,Noarootsi vald,Lääne maakond,65
+375,Saverna Põhikool,Valgjärve vald,Põlva maakond,65
+376,EBS Gümnaasium,Tallinn linn,Harju maakond,64
+377,Lahmuse Kool,Suure-Jaani vald,Viljandi maakond,64
+378,Holstre Kool,Paistu vald,Viljandi maakond,63
+379,J.V.Veski nim. Maarja Põhikool,Tabivere vald,Jõgeva maakond,63
+380,Krootuse Põhikool,Kõlleste vald,Põlva maakond,63
+381,Kernu Põhikool,Kernu vald,Harju maakond,62
+382,Kosejõe kool,Kose vald,Harju maakond,62
+383,Sürgavere Lasteaed-Põhikool,Suure-Jaani vald,Viljandi maakond,62
+384,Virtsu Kool,Hanila vald,Lääne maakond,62
+385,Risti Põhikool (Harju),Padise vald,Harju maakond,61
+386,Keila-Joa Sanatoorne Internaatkool,Harku vald,Harju maakond,60
+387,Konguta Kool,Konguta vald,Tartu maakond,60
+388,Paistu Kool,Paistu vald,Viljandi maakond,60
+389,Põlula Kool,Rägavere vald,Lääne-Viru maakond,60
+390,Illuka Kool,Illuka vald,Ida-Viru maakond,58
+391,Võsu Kool,Vihula vald,Lääne-Viru maakond,58
+392,Vaimastvere Kool,Jõgeva vald,Jõgeva maakond,57
+393,Varbla Põhikool,Varbla vald,Pärnu maakond,57
+394,Aegviidu Kool,Aegviidu vald,Harju maakond,56
+395,Kabala Lasteaed-Põhikool,Raikküla vald,Rapla maakond,56
+396,Kallemäe Kool,Valjala vald,Saare maakond,56
+397,Kildu Põhikool,Suure-Jaani vald,Viljandi maakond,56
+398,Kiltsi Põhikool,Väike-Maarja vald,Lääne-Viru maakond,56
+399,Siimusti Lasteaed-Algkool,Jõgeva vald,Jõgeva maakond,56
+400,Sinimäe Põhikool,Vaivara vald,Ida-Viru maakond,56
+401,Viljandi Kaare Kool,Viljandi linn,Viljandi maakond,56
+402,Mõisaküla Kool,Mõisaküla linn,Viljandi maakond,55
+403,Tallinna Toomkool,Tallinn linn,Harju maakond,55
+404,Tartu Emajõe Kool,Tartu linn,Tartu maakond,55
+405,Eidapere Kool,Kehtna vald,Rapla maakond,54
+406,Kõpu Põhikool,Kõpu vald,Viljandi maakond,54
+407,Lümanda Põhikool,Lümanda vald,Saare maakond,54
+408,MTÜ Kool 21. sajandil Haabersti Vene Eragümnaasium,Tallinn linn,Harju maakond,54
+409,Päinurme Internaatkool,Koigi vald,Järva maakond,54
+410,Tornimäe Põhikool,Pöide vald,Saare maakond,54
+411,Audentese Spordigümnaasiumi Otepää filiaal,Otepää vald,Valga maakond,53
+412,Johannese Kool ja Lasteaed Rosmal,Põlva vald,Põlva maakond,53
+413,Jäneda Kool,Tapa vald,Lääne-Viru maakond,53
+414,Kivi-Vigala Põhikool,Vigala vald,Rapla maakond,53
+415,Laeva Põhikool,Laeva vald,Tartu maakond,53
+416,Mustjala Lasteaed-Põhikool,Mustjala vald,Saare maakond,53
+417,Tallinna Mustamäe 1. Lasteaed-Algkool,Tallinn linn,Harju maakond,53
+418,Koonga Põhikool,Koonga vald,Pärnu maakond,52
+419,Kose-Uuemõisa Lasteaed-Kool,Kose vald,Harju maakond,52
+420,Kodila Põhikool,Rapla vald,Rapla maakond,50
+421,Kolkja Põhikool,Peipsiääre vald,Tartu maakond,50
+422,Tartu Kristlik Põhikool,Tartu linn,Tartu maakond,50
+423,Urvaste Kool,Urvaste vald,Võru maakond,50
+424,Lehtse Kool,Tapa vald,Lääne-Viru maakond,49
+425,Leie Põhikool,Kolga-Jaani vald,Viljandi maakond,49
+426,Meremäe Kool,Meremäe vald,Võru maakond,49
+427,Valgu Põhikool,Märjamaa vald,Rapla maakond,49
+428,Hargla Kool,Taheva vald,Valga maakond,48
+429,Muuga Põhikool,Laekvere vald,Lääne-Viru maakond,47
+430,Viljandi Vaba Waldorfkool,Viljandi linn,Viljandi maakond,47
+431,Ala Põhikool,Helme vald,Valga maakond,46
+432,Kaali Kool,Pihtla vald,Saare maakond,46
+433,Kihnu Kool,Kihnu vald,Pärnu maakond,46
+434,Metsapoole Põhikool,Häädemeeste vald,Pärnu maakond,46
+435,Tääksi Põhikool,Suure-Jaani vald,Viljandi maakond,46
+436,Kuuste Kool,Kambja vald,Tartu maakond,45
+437,Esku-Kamari Kool,Põltsamaa vald,Jõgeva maakond,44
+438,Martna Põhikool,Martna vald,Lääne maakond,44
+439,Peetri Kool,Kareda vald,Järva maakond,43
+440,Tootsi Lasteaed-Põhikool,Tootsi vald,Pärnu maakond,43
+441,Lohusuu Kool,Lohusuu vald,Ida-Viru maakond,42
+442,Tapa Erikool,Tapa vald,Lääne-Viru maakond,42
+443,Kauksi Põhikool,Mooste vald,Põlva maakond,41
+444,Pärnu Toimetulekukool,Pärnu linn,Pärnu maakond,40
+445,Vihasoo Lasteaed-Algkool,Kuusalu vald,Harju maakond,40
+446,Alu Lasteaed-Algkool,Rapla vald,Rapla maakond,39
+447,Ambla Lasteaed-Põhikool,Ambla vald,Järva maakond,39
+448,Kihelkonna Kool,Kihelkonna vald,Saare maakond,38
+449,Mikitamäe Kool,Mikitamäe vald,Põlva maakond,37
+450,Riidaja Põhikool,Põdrala vald,Valga maakond,37
+451,Tahkuranna Lasteaed-Algkool,Tahkuranna vald,Pärnu maakond,37
+452,Vidruka Kool,Taebla vald,Lääne maakond,37
+453,Käo Põhikool,Tallinn linn,Harju maakond,36
+454,Tallinna Laagna Lasteaed-Põhikool,Tallinn linn,Harju maakond,36
+455,Tudulinna Põhikool,Tudulinna vald,Ida-Viru maakond,36
+456,"""Edu Valem"" Erakool",Tallinn linn,Harju maakond,35
+457,Kahtla Lasteaed-Põhikool,Laimjala vald,Saare maakond,35
+458,Käru Põhikool,Käru vald,Rapla maakond,35
+459,Lehola Kool,Keila vald,Harju maakond,35
+460,Võru Järve Kool,Võru linn,Võru maakond,35
+461,Klooga Kool,Keila vald,Harju maakond,34
+462,Libatse Lasteaed-Algkool,Halinga vald,Pärnu maakond,34
+463,Kajamaa Kool,Saku vald,Harju maakond,33
+464,Sadala Põhikool,Torma vald,Jõgeva maakond,33
+465,Lõpe Põhikool,Koonga vald,Pärnu maakond,32
+466,Misso Kool,Misso vald,Võru maakond,32
+467,Pikavere Lasteaed-Algkool,Raasiku vald,Harju maakond,32
+468,Harmi Põhikool,Kõue vald,Harju maakond,31
+469,Kaelase Kool,Halinga vald,Pärnu maakond,30
+470,Lindi Lasteaed-Algkool,Audru vald,Pärnu maakond,30
+471,Rakvere Vanalinna Kool,Rakvere linn,Lääne-Viru maakond,30
+472,Sonda Kool,Sonda vald,Ida-Viru maakond,30
+473,Tudu Lasteaed-Põhikool,Vinni vald,Lääne-Viru maakond,30
+474,Vajangu Põhikool,Tamsalu vald,Lääne-Viru maakond,30
+475,Tali Põhikool,Saarde vald,Pärnu maakond,28
+476,Mihkli Kool,Tapa vald,Lääne-Viru maakond,27
+477,Ritsu Lasteaed-Algkool,Helme vald,Valga maakond,27
+478,Luua Algkool,Palamuse vald,Jõgeva maakond,26
+479,Mehikoorma Põhikool,Meeksi vald,Tartu maakond,26
+480,Ruusa Põhikool,Räpina vald,Põlva maakond,26
+481,Tartu Rahvusvaheline Kool,Tartu linn,Tartu maakond,26
+482,Viira Kool,Tori vald,Pärnu maakond,26
+483,Kaagvere Erikool,Mäksa vald,Tartu maakond,25
+484,Pisisaare Algkool,Pajusi vald,Jõgeva maakond,24
+485,Valguta Lasteaed-Algkool,Rõngu vald,Tartu maakond,24
+486,Himmaste Algkool,Põlva vald,Põlva maakond,23
+487,Jaagu Lasteaed-Põhikool,Pärsti vald,Viljandi maakond,23
+488,Neeme Kool,Jõelähtme vald,Harju maakond,23
+489,Aakre Lasteaed-Algkool,Puka vald,Valga maakond,22
+490,Hilariuse Kool,Tallinn linn,Harju maakond,22
+491,Kõmsi Lasteaed-Algkool,Hanila vald,Lääne maakond,22
+492,Salla Põhikool,Rakke vald,Lääne-Viru maakond,22
+493,Varbola Lasteaed-Algkool,Märjamaa vald,Rapla maakond,22
+494,Vastseliina Internaatkool,Vastseliina vald,Võru maakond,22
+495,Aruvälja Lasteaed-Algkool,Audru vald,Pärnu maakond,20
+496,Kergu Lasteaed-Algkool,Vändra vald,Pärnu maakond,20
+497,Kuremaa Lasteaed-Algkool,Jõgeva vald,Jõgeva maakond,20
+498,Pikakannu Kool,Lasva vald,Võru maakond,20
+499,Salu Kool,Saue vald,Harju maakond,20
+500,Türi Toimetulekukool,Türi vald,Järva maakond,20
+501,Ahula Lasteaed-Algkool,Albu vald,Järva maakond,18
+502,Paide Valla Lasteaed-Kool,Paide vald,Järva maakond,18
+503,Seljametsa Lasteaed-Algkool,Paikuse vald,Pärnu maakond,18
+504,Veltsi Lasteaed-Algkool,Rakvere vald,Lääne-Viru maakond,18
+505,Õru Lasteaed-Algkool,Õru vald,Valga maakond,18
+506,Kuimetsa Algkool,Kaiu vald,Rapla maakond,17
+507,Metsküla Algkool,Lihula vald,Lääne maakond,17
+508,Nõva Kool,Nõva vald,Lääne maakond,17
+509,Puiatu Lasteaed-Kool,Pärsti vald,Viljandi maakond,17
+510,Rakvere Lille Kool,Rakvere linn,Lääne-Viru maakond,17
+511,Suigu Lasteaed-Algkool,Are vald,Pärnu maakond,17
+512,Suuremõisa Lasteaed-Põhikool,Pühalepa vald,Hiiu maakond,17
+513,Vormsi Lasteaed-Põhikool,Vormsi vald,Lääne maakond,17
+514,Kabala Kool-Lasteaed,Türi vald,Järva maakond,16
+515,Kavastu Algkool-Lasteaed,Luunja vald,Tartu maakond,16
+516,Rakvere Täiskasvanute Gümnaasium,Rakvere linn,Lääne-Viru maakond,16
+517,Kasari Põhikool,Lihula vald,Lääne maakond,15
+518,Kõpu Internaatkool,Kõrgessaare vald,Hiiu maakond,15
+519,Pihtla Kool,Pihtla vald,Saare maakond,15
+520,Roosi Kool,Põlva linn,Põlva maakond,15
+521,Kärstna Kool,Tarvastu vald,Viljandi maakond,14
+522,Suislepa Lasteaed-Algkool,Tarvastu vald,Viljandi maakond,14
+523,Pikasilla Algkool,Põdrala vald,Valga maakond,13
+524,Unipiha Algkool,Kambja vald,Tartu maakond,13
+525,Vahenurme Lasteaed-Algkool,Halinga vald,Pärnu maakond,13
+526,Ramsi Lasteaed-Kool,Pärsti vald,Viljandi maakond,12
+527,Vatla Põhikool,Hanila vald,Lääne maakond,12
+528,Vohnja Lasteaed-Algkool,Kadrina vald,Lääne-Viru maakond,12
+529,Prangli Põhikool,Viimsi vald,Harju maakond,10
+530,Aidu Lasteaed-Algkool,Pajusi vald,Jõgeva maakond,9
+531,Lahu Algkool,Rakke vald,Lääne-Viru maakond,9
+532,Lavassaare Lasteaed-Algkool,Lavassaare vald,Pärnu maakond,9
+533,Saduküla Lasteaed-Algkool,Puurmani vald,Jõgeva maakond,7
+534,Ruhnu Põhikool,Ruhnu vald,Saare maakond,6
+535,Massiaru Algkool,Häädemeeste vald,Pärnu maakond,3
