@@ -1,7 +1,9 @@
-import java.io.*;
-public class Andmeproov{
-	public static void main(String[] args) throws IOException{
-		Andmeuuring uuring=new Andmeuuring("http://www.tlu.ee/~jaagup/andmed/ilm/harkutund.txt");
-		System.out.println(uuring.maksimum(5));
-	}
+import java.io.IOException;
+
+public class Andmeproov {
+    public static void main(String[] args) throws IOException {
+        Andmeuuring uuring=new Andmeuuring("Djd.txt");
+        System.out.println("esimeseks j2i aastal 2016: " +uuring.esimeneKoht());
+        System.out.print("viimaseks j2i aastal 2016: " + uuring.viimaneKoht());
+    }
 }
