@@ -20,29 +20,50 @@ public class Andmeuuring{
 	}
 	public double maksimum(int tulbanr) throws IOException{
 		BufferedReader lugeja=kysiLugeja();
-		boolean alustatud=false;
-		String rida=lugeja.readLine(); //pealkirjarida
+		String rida=lugeja.readLine(); 
 		rida=lugeja.readLine();
-		int puuduvaid=0;
-		double maxtemp=0;
+		double maxarv=0;
+
 		while(rida!=null){
 			String[] m=rida.split(",");
 			 try{
-			  double temperatuur=Double.parseDouble(m[tulbanr]);
-			  if(alustatud){
-				  if(temperatuur>maxtemp){maxtemp=temperatuur;}
-			  } else {
-				  maxtemp=temperatuur;
-				  alustatud=true;
+			  double rahvaarv=Double.parseDouble(m[tulbanr]);
+			  if(maxarv<rahvaarv){
+				  maxarv = rahvaarv;
 			  }
-			 } catch(Exception veaandmed){
-				 puuduvaid++;
+			 } catch(Exception e){
+				 System.out.println("Viga");
 			 }
 			 rida=lugeja.readLine();
 		}
-		if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
 		lugeja.close();
-		return maxtemp;
+		return maxarv;
 	}
-	
+	public String maksimumLinn(int tulbanr) throws IOException{
+		BufferedReader lugeja=kysiLugeja();
+		String rida=lugeja.readLine(); 
+		rida=lugeja.readLine();
+		double maxarv=0;
+		String linn="a";
+
+		while(rida!=null){
+			String[] m=rida.split(",");
+			 try{
+			  double rahvaarv=Double.parseDouble(m[1]);
+			  if(maxarv<rahvaarv){
+				  maxarv = rahvaarv;
+				  linn = m[tulbanr];
+			  }
+			 } catch(Exception e){
+				 System.out.println("Viga");
+			 }
+			 rida=lugeja.readLine();
+		}
+		lugeja.close();
+		return linn;
+	}
 }
+
+/*
+Kõige suurema rahvaarvuga linn on Tallinn kus on 434810.0 inimest
+*/
