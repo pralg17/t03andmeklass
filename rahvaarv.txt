@@ -1,0 +1,9 @@
+linn,rahvaarv
+Tapa,5766
+Tartu,97847
+Tallinn,434810
+Narva,62078
+Pärnu,41256
+Paide,8370
+Rakvere,15400
+Viljandi,18257
