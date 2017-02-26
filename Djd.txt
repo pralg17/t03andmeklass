@@ -1,0 +1,101 @@
+Name,place,placelastyear
+Martin Garrix,1,3
+Dimitri Vegas & Like Mike,2,1
+Hardwell,3,2
+Armin Van Buuren,4,4
+Tiesto,5,5
+David Guetta,6,6
+Steve Aoki,7,10
+Oliver Heldens,8,12
+Skrillex,9,9
+Afrojack,10,8
+Avicii,11,7
+KSHMR,12,23
+W&W,13,14
+Calvin Harris,14,11
+Don Diablo,15,30
+Axwell & Ingrosso,16,17
+Dash Berlin,17,15
+The Chainsmokers,18,18
+Ummet Ozcan,19,36
+Alesso,20,13
+R3hab,21,21
+DJ Snake,22,32
+Diplo,23,20
+DVBBS,24,16
+Alok,24,44
+Kygo,26,33
+Swanky tunes,24,97
+Marshmello,28,-
+Nicky Romero,29,18
+Steve Angello,30,31
+Deadmau5,31,25
+Quintino,32,80
+DC Chetas,33,59
+Bassjackers,34,39
+Zedd,35,22
+Headhunterz,36,48
+VINAI,37,43
+Florian Picasso,38,-
+Galantis,39,98
+Jack U,40,45
+Aly & Fila,41,42
+Shogun,42,47
+Blasterjaxx,43,16
+Major Lazer,44,54
+Nervo,45,24
+Angerfist,46,38
+Above & Beyond,47,29
+Yellow Claw,48,74
+Marlo,49,91
+Fedde le Grand,50,35
+Kura,51,61
+Lost stories,52,-
+Deorro,53,28
+Vintage culture,54,-
+Alan Walker,55,-
+Tom Swoon,56,46
+Coone,57,49
+Diego Miranda,58,58
+Brennan Heart,59,53
+Paul van Dyk,60,41
+ATB,61,82
+Yves V,62,34
+Wolfpack,63,52
+Dillon Francis,64,67
+Andrew Rayel,65,40
+Eric Prydz,66,57
+Felguk,67,-
+Radical Redemption,68,72
+Robin Schulz,69,99
+Dannic,70,26
+Da Tweekaz,71,79
+Daft Punk,72,69
+Will Sparks,73,78
+Carl Cox,74,63
+Timmy Trumpet,75,-
+Borgore,76,68
+Firebeatz,77,66
+Tujamo,78,95
+Laidback Luke,79,65
+Markus Schulz,80,56
+Vicetone,81,50
+Martin Jensen,82,-
+Jauz,83,-
+Carnage,84,88
+Netsky,85,75
+Carl Nunes,86,-
+Sam Feldt,87,-
+Miss K8,88,94
+Jay Hardway,89,-
+Porter Robinson,90,55
+Bobina,91,-
+Zatox,92,87
+Dyro,93,27
+Flume,94,-
+Infected Mushroom,95,-
+Showtek,96,37
+Daddy's groove,97,-
+Martin Solveig,98,-
+Ferry Corsten,99,85
+DJ Feel,100,-
