@@ -44,5 +44,40 @@ public class Andmeuuring{
 		lugeja.close();
 		return maxtemp;
 	}
+
+
+		public double miinimum(int tulbanr) throws IOException{
+		BufferedReader lugeja=kysiLugeja();
+		boolean alustatud=false;
+		String rida=lugeja.readLine(); //pealkirjarida
+		rida=lugeja.readLine();
+		double mintemp=0;
+		int puuduvaid=0;
+		while(rida!=null){
+			String[] m=rida.split(",");
+			 try{
+			  double temperatuur=Double.parseDouble(m[tulbanr]);
+			  if(alustatud){
+				  if(temperatuur<mintemp){mintemp=temperatuur;}
+			  } else {
+				  mintemp=temperatuur;
+				  alustatud=true;
+			  }
+			 } catch(Exception veaandmed){
+				 puuduvaid++;
+			 }
+			 rida=lugeja.readLine();
+		}
+		lugeja.close();
+		return mintemp;
+	}
+
+	
+
+
+
+
+
+	
 	
 }
