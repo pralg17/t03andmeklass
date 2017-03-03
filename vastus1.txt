@@ -1,0 +1,4 @@
+Programm uurib elektri tarbimist kuu jooksul
+Keskmine tarbimine päevas on 27817 MWh
+Suurim elektritarbimine on 32144 MWh See toimus 0 Päeval
+Suurim elektritarbimise standardhälve 169.0
