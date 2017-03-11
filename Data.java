@@ -1,28 +1,25 @@
-import java.io.*;
+import com.sun.xml.internal.ws.util.StringUtils;
+
+import java.io.IOException;
 import java.net.URL;
+import java.util.Scanner;
 
 public class Data{
 
 
 	public static void main(String[] args) throws IOException {
 
-		int lineAmount = 0;
 
-		String urlString = "http://www.tlu.ee/~jaagup/andmed/muu/5klass.txt";
-		URL site = new URL(urlString);
-		BufferedReader reader = new BufferedReader(new InputStreamReader(site.openStream()));
+		String webUrl = "http://www.tlu.ee/~jaagup/andmed/muu/5klass.txt";
+		String out = new Scanner(new URL(webUrl).openStream(), "UTF-8").useDelimiter("\\A").next();
+		System.out.println(out);
 
-
-
-		while ((reader.readLine()) != null)
-		{
-			lineAmount += 1;
-		}
-
-		reader.close();
+		String lines[] = out.split("\\r?\\n");
 
 
-		System.out.println(lineAmount);
+
+
+		//IOUtils.toString(URL url)
 		//File text = new File("test.txt");
 		//text.createNewFile();
 
