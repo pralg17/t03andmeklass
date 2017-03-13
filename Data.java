@@ -28,6 +28,38 @@ public class Data{
 	}
 
 
+	public float avgMales() {
+		float counter = 0;
+		float avgMale = 0;
+
+		for( int i = 0; i < data.length; i++ ){
+
+			counter = counter + 1;
+			if( data[i][3].equals("m") ){
+				avgMale++;
+			}
+		}
+
+		return avgMale / counter;
+	}
+
+
+	public float avgFemales() {
+		float counter = 0;
+		float avgFemale = 0;
+
+		for( int i = 0; i < data.length; i++ ){
+
+			counter = counter + 1;
+			if( data[i][3].equals("n") ){
+				avgFemale++;
+			}
+		}
+
+		return avgFemale / counter;
+	}
+
+
 }
 
 
