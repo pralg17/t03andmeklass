@@ -60,6 +60,19 @@ public class Data{
 	}
 
 
+	public float avgHeight() {
+		float counter = 0;
+		float height = 0;
+
+		for( int i = 1; i < data.length; i++ ){
+
+			counter = counter + 1;
+			height = height + Integer.parseInt(data[i][1]);
+		}
+
+		return height / counter;
+	}
+
 }
 
 

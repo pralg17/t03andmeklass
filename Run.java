@@ -7,5 +7,6 @@ public class Run{
 		//System.out.println(dt.data[0][0]);
 		System.out.println(dt.avgMales());
 		System.out.println(dt.avgFemales());
+		System.out.println(dt.avgHeight());
 	}
 }
