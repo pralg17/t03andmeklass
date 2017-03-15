@@ -18,31 +18,61 @@ public class Andmeuuring{
 		  return null;
 	  }
 	}
-	public double maksimum(int tulbanr) throws IOException{
+	public double punktMax(int mitmes) throws IOException{
 		BufferedReader lugeja=kysiLugeja();
 		boolean alustatud=false;
 		String rida=lugeja.readLine(); //pealkirjarida
 		rida=lugeja.readLine();
 		int puuduvaid=0;
-		double maxtemp=0;
+		double punktMax=0;
 		while(rida!=null){
 			String[] m=rida.split(",");
+			
 			 try{
-			  double temperatuur=Double.parseDouble(m[tulbanr]);
-			  if(alustatud){
-				  if(temperatuur>maxtemp){maxtemp=temperatuur;}
-			  } else {
-				  maxtemp=temperatuur;
-				  alustatud=true;
-			  }
+				 
+				double punktid=Double.parseDouble(m[mitmes]);
+				if(alustatud){	
+					if(punktid>maxpunktid){
+						maxpunktid=punktid;
+						}
+				} else {
+					maxpunktid=punktid;
+					alustatud=true;
+				}
 			 } catch(Exception veaandmed){
 				 puuduvaid++;
 			 }
 			 rida=lugeja.readLine();
 		}
-		if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
+		if(puuduvaid>0){System.err.println("Puudu "+puuduvaid);}
 		lugeja.close();
-		return maxtemp;
+		return maxpunkt;
 	}
 	
 }
+
+
+	/*public int jagatud(int mitmes) throws IOException{
+ 		BufferedReader lugeja=kysiLugeja();
+ 		String rida=lugeja.readLine(); //pealkirjarida
+ 		rida=lugeja.readLine();
+		int element=0;
+		int count=0;
+		for (int j=0; j<mitmes.length; j++){
+			int tempElement = mitmes[0];
+			int tempCount=0;
+			for (int p=0; p<mitmes.length;p++)
+				tempCount++;
+			if (tempCount>count){
+				element = tempElement;
+				count= tempCount;
+				
+			}
+			
+		}
+			 rida=lugeja.readLine();
+			
+				
+		}
+	}*/
+	
