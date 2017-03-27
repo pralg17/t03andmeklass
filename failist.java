@@ -26,23 +26,7 @@ import java.io.*;
      printer.close();
    }
  }
+
+ // Toa poranda pindala on 30.0 ning selle toa ruumala on 90.0
  //
- // Auto kaugus maantee algusest on 3.0 km ja kiirus on 3.0 km/h.
- //  Auto asukoht 3 sekundi pärast on 3.000833 km,
- //  5 minuti pärast 3.25 km,
- //  ja 2 tunni pärast 9.0 km.
- //
- // Auto kaugus maantee algusest on 15.0 km ja kiirus on 100.0 km/h.
- //  Auto asukoht 3 sekundi pärast on 15.027766666666666 km,
- //  5 minuti pärast 23.333333333333332 km,
- //  ja 2 tunni pärast 215.0 km.
- //
- // Auto kaugus maantee algusest on 50.0 km ja kiirus on 95.0 km/h.
- //  Auto asukoht 3 sekundi pärast on 50.026378333333334 km,
- //  5 minuti pärast 57.916666666666664 km,
- //  ja 2 tunni pärast 240.0 km.
- //
- // Auto kaugus maantee algusest on 30.0 km ja kiirus on 99.0 km/h.
- //  Auto asukoht 3 sekundi pärast on 30.027489000000006 km,
- //  5 minuti pärast 38.25000000000001 km,
- //  ja 2 tunni pärast 228.00000000000003 km.
+ // Toa poranda pindala on 100.0 ning selle toa ruumala on 300.0
