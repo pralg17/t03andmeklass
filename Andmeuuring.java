@@ -24,15 +24,15 @@ public class Andmeuuring{
 		String rida=lugeja.readLine(); //pealkirjarida
 		rida=lugeja.readLine();
 		int puuduvaid=0;
-		double maxtemp=0;
+		double max=0;
 		while(rida!=null){
 			String[] m=rida.split(",");
 			 try{
-			  double temperatuur=Double.parseDouble(m[tulbanr]);
+			  double arv=Double.parseDouble(m[tulbanr]);
 			  if(alustatud){
-				  if(temperatuur>maxtemp){maxtemp=temperatuur;}
+				  if(arv>max){max=arv;}
 			  } else {
-				  maxtemp=temperatuur;
+				  max=arv;
 				  alustatud=true;
 			  }
 			 } catch(Exception veaandmed){
@@ -40,9 +40,36 @@ public class Andmeuuring{
 			 }
 			 rida=lugeja.readLine();
 		}
-		if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
+		if(puuduvaid>0){System.err.println("Puudu "+puuduvaid);}
 		lugeja.close();
-		return maxtemp;
+		return max;
+	}
+	
+	public double miinimum(int tulbanr) throws IOException{
+		BufferedReader lugeja=kysiLugeja();
+		boolean alustatud=false;
+		String rida=lugeja.readLine(); //pealkirjarida
+		rida=lugeja.readLine();
+		int puuduvaid=0;
+		double min=99999999;
+		while(rida!=null){
+			String[] m=rida.split(",");
+			 try{
+			  double arv=Double.parseDouble(m[tulbanr]);
+			  if(alustatud){
+				  if(arv<min){min=arv;}
+			  } else {
+				  min=arv;
+				  alustatud=true;
+			  }
+			 } catch(Exception veaandmed){
+				 puuduvaid++;
+			 }
+			 rida=lugeja.readLine();
+		}
+		if(puuduvaid>0){System.err.println("Puudu "+puuduvaid);}
+		lugeja.close();
+		return min;
 	}
 	
 }
