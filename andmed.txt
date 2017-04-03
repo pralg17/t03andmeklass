@@ -1,0 +1,101 @@
+Rank	,	Code	,	Company	,	Sector	,	Market Cap	,	Weight(%)
+1	,	ABC	,	Adelaide Brighton Limited	,	Materials	,	3339220000	,	0.23
+2	,	AGL	,	AGL Energy Limited	,	Utilities	,	15598200000	,	1.07
+3	,	ALL	,	Aristocrat Leisure Limited	,	Consumer Discretionary	,	9667560000	,	0.67
+4	,	ALQ	,	Als Limited	,	Industrials	,	2969860000	,	0.2
+5	,	AMC	,	Amcor Limited	,	Materials	,	16480400000	,	1.13
+6	,	AMP	,	AMP Limited	,	Financials	,	14936600000	,	1.03
+7	,	ANN	,	Ansell Limited	,	Health Care	,	3307250000	,	0.23
+8	,	ANZ	,	Australia And New Zealand Banking Group Limited	,	Financials	,	86436900000	,	5.95
+9	,	APA	,	APA Group Stapled	,	Utilities	,	9427040000	,	0.65
+10	,	AST	,	Ausnet Services Limited	,	Utilities	,	5765050000	,	0.4
+11	,	ASX	,	ASX Limited	,	Financials	,	9726220000	,	0.67
+12	,	AWC	,	Alumina Limited	,	Materials	,	5586900000	,	0.38
+13	,	AZJ	,	Aurizon Holdings Limited	,	Industrials	,	10402400000	,	0.72
+14	,	BEN	,	Bendigo And Adelaide Bank Limited	,	Financials	,	5927050000	,	0.41
+15	,	BHP	,	BHP Billiton Limited	,	Materials	,	86972600000	,	5.99
+16	,	BKL	,	Blackmores Limited	,	Consumer Staples	,	1960300000	,	0.13
+17	,	BLD	,	Boral Limited	,	Materials	,	6694020000	,	0.46
+18	,	BOQ	,	Bank of Queensland Limited	,	Financials	,	4616910000	,	0.32
+19	,	BSL	,	Bluescope Steel Limited	,	Materials	,	6381690000	,	0.44
+20	,	BXB	,	Brambles Limited	,	Industrials	,	16330000000	,	1.12
+21	,	CAR	,	Carsales.com Limited	,	Information Technology	,	2474490000	,	0.17
+22	,	CBA	,	Commonwealth Bank of Australia	,	Financials	,	141335000000	,	9.73
+23	,	CCL	,	Coca-cola Amatil Limited	,	Consumer Staples	,	7467910000	,	0.51
+24	,	CGF	,	Challenger Limited	,	Financials	,	6225510000	,	0.43
+25	,	CIM	,	Cimic Group Limited	,	Industrials	,	11154300000	,	0.77
+26	,	COH	,	Cochlear Limited	,	Health Care	,	7232310000	,	0.5
+27	,	CPU	,	Computershare Limited	,	Information Technology	,	7085850000	,	0.49
+28	,	CSL	,	CSL Limited	,	Health Care	,	51608400000	,	3.55
+29	,	CSR	,	CSR Limited	,	Materials	,	2239900000	,	0.15
+30	,	CTX	,	Caltex Australia Limited	,	Energy	,	7396590000	,	0.51
+31	,	CWN	,	Crown Resorts Limited	,	Consumer Discretionary	,	8296410000	,	0.57
+32	,	CYB	,	CYBG PLC Cdi 1:1	,	Financials	,	3255670000	,	0.22
+33	,	DLX	,	Duluxgroup Limited	,	Materials	,	2354960000	,	0.16
+34	,	DMP	,	Domino's Pizza Enterprises Limited	,	Consumer Discretionary	,	5066950000	,	0.35
+35	,	DOW	,	Downer Edi Limited	,	Industrials	,	2654910000	,	0.18
+36	,	DUE	,	Duet Group Forus	,	Utilities	,	6812530000	,	0.47
+37	,	DXS	,	Dexus Property Group Stapled	,	Real Estate	,	8740570000	,	0.6
+38	,	FLT	,	Flight Centre Travel Group Limited	,	Consumer Discretionary	,	3022430000	,	0.21
+39	,	FMG	,	Fortescue Metals Group LTD	,	Materials	,	21205000000	,	1.46
+40	,	FXJ	,	Fairfax Media Limited	,	Consumer Discretionary	,	2069530000	,	0.14
+41	,	GMG	,	Goodman Group Stapled	,	Real Estate	,	12380700000	,	0.85
+42	,	GNC	,	Graincorp Limited	,	Consumer Staples	,	2162690000	,	0.15
+43	,	GPT	,	GPT Group Stapled	,	Real Estate	,	8378470000	,	0.58
+44	,	HGG	,	Henderson Group PLC Cdi 1:1	,	Financials	,	2491700000	,	0.17
+45	,	HSO	,	Healthscope Limited	,	Health Care	,	3817210000	,	0.26
+46	,	HVN	,	Harvey Norman Holdings Limited	,	Consumer Discretionary	,	5462640000	,	0.38
+47	,	IAG	,	Insurance Australia Group Limited	,	Financials	,	13802700000	,	0.95
+48	,	IFL	,	Ioof Holdings Limited	,	Financials	,	2695200000	,	0.19
+49	,	ILU	,	Iluka Resources Limited	,	Materials	,	3018830000	,	0.21
+50	,	IOF	,	Investa Office Fund Stapled	,	Real Estate	,	2793920000	,	0.19
+51	,	IPL	,	Incitec Pivot Limited	,	Materials	,	6428120000	,	0.44
+52	,	JBH	,	JB Hi-fi Limited	,	Consumer Discretionary	,	3105020000	,	0.21
+53	,	JHX	,	James Hardie Industries PLC Cdi 1:1	,	Materials	,	9262080000	,	0.64
+54	,	LLC	,	Lendlease Group Stapled	,	Real Estate	,	8313430000	,	0.57
+55	,	LNK	,	Link Administration Holdings Limited	,	Information Technology	,	2763240000	,	0.19
+56	,	MFG	,	Magellan Financial Group Limited	,	Financials	,	4028310000	,	0.28
+57	,	MGR	,	Mirvac Group Stapled	,	Real Estate	,	7558430000	,	0.52
+58	,	MPL	,	Medibank Private Limited	,	Financials	,	7435810000	,	0.51
+59	,	MQG	,	Macquarie Group Limited	,	Financials	,	28807400000	,	1.98
+60	,	NAB	,	National Australia Bank Limited	,	Financials	,	81336000000	,	5.6
+61	,	NCM	,	Newcrest Mining Limited	,	Materials	,	16622800000	,	1.14
+62	,	NST	,	Northern Star Resources LTD	,	Materials	,	2306080000	,	0.16
+63	,	NVT	,	Navitas Limited	,	Consumer Discretionary	,	1613400000	,	0.11
+64	,	ORA	,	Orora Limited	,	Materials	,	3439050000	,	0.24
+65	,	ORG	,	Origin Energy Limited	,	Energy	,	12635300000	,	0.87
+66	,	ORI	,	Orica Limited	,	Materials	,	7034490000	,	0.48
+67	,	OSH	,	Oil Search Limited 10T	,	Energy	,	10628400000	,	0.73
+68	,	PPT	,	Perpetual Limited	,	Financials	,	2150340000	,	0.15
+69	,	PRY	,	Primary Health Care Limited	,	Health Care	,	1976230000	,	0.14
+70	,	QAN	,	Qantas Airways Limited	,	Industrials	,	6118920000	,	0.42
+71	,	QBE	,	QBE Insurance Group Limited	,	Financials	,	17144900000	,	1.18
+72	,	QUB	,	Qube Holdings Limited	,	Industrials	,	3353920000	,	0.23
+73	,	REA	,	REA Group LTD	,	Consumer Discretionary	,	6896580000	,	0.47
+74	,	RHC	,	Ramsay Health Care Limited	,	Health Care	,	13400000000	,	0.92
+75	,	RIO	,	RIO Tinto Limited	,	Materials	,	28437900000	,	1.96
+76	,	RMD	,	Resmed Inc Cdi 10:1	,	Health Care	,	12575100000	,	0.87
+77	,	S32	,	SOUTH32 Limited	,	Materials	,	14800100000	,	1.02
+78	,	SCG	,	Scentre Group Stapled	,	Real Estate	,	23533400000	,	1.62
+79	,	SEK	,	Seek Limited	,	Industrials	,	5032750000	,	0.35
+80	,	SGP	,	Stockland Stapled	,	Real Estate	,	10558100000	,	0.73
+81	,	SGR	,	The Star Entertainment Group Limited	,	Consumer Discretionary	,	3930200000	,	0.27
+82	,	SHL	,	Sonic Healthcare Limited	,	Health Care	,	8717850000	,	0.6
+83	,	SKI	,	Spark Infrastructure Group Forus	,	Utilities	,	3969550000	,	0.27
+84	,	SRX	,	Sirtex Medical Limited	,	Health Care	,	820443000	,	0.06
+85	,	STO	,	Santos Limited	,	Energy	,	8107930000	,	0.56
+86	,	SUN	,	Suncorp Group Limited	,	Financials	,	17004800000	,	1.17
+87	,	SYD	,	Sydney Airport Forus	,	Industrials	,	13296500000	,	0.92
+88	,	TAH	,	Tabcorp Holdings Limited	,	Consumer Discretionary	,	3967520000	,	0.27
+89	,	TCL	,	Transurban Group Stapled	,	Industrials	,	21122100000	,	1.45
+90	,	TLS	,	Telstra Corporation Limited	,	Telecommunication Services	,	60299000000	,	4.15
+91	,	TPM	,	TPG Telecom Limited	,	Telecommunication Services	,	5396290000	,	0.37
+92	,	TTS	,	Tatts Group Limited	,	Consumer Discretionary	,	6299950000	,	0.43
+93	,	TWE	,	Treasury Wine Estates Limited	,	Consumer Staples	,	8473790000	,	0.58
+94	,	VCX	,	Vicinity Centres Stapled	,	Real Estate	,	11321700000	,	0.78
+95	,	VOC	,	Vocus Group Limited	,	Telecommunication Services	,	2462800000	,	0.17
+96	,	WBC	,	Westpac Banking Corporation	,	Financials	,	107378000000	,	7.39
+97	,	WES	,	Wesfarmers Limited	,	Consumer Staples	,	46210200000	,	3.18
+98	,	WFD	,	Westfield Corporation Stapled	,	Real Estate	,	18453400000	,	1.27
+99	,	WOW	,	Woolworths Limited	,	Consumer Staples	,	32320000000	,	2.22
+100	,	WPL	,	Woodside Petroleum Limited	,	Energy	,	26958200000	,	1.86
