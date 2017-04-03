@@ -18,21 +18,21 @@ public class Andmeuuring{
 		  return null;
 	  }
 	}
-	public double maksimum(int tulbanr) throws IOException{
+	public double MaxVanus(int tulbanr) throws IOException{
 		BufferedReader lugeja=kysiLugeja();
 		boolean alustatud=false;
 		String rida=lugeja.readLine(); //pealkirjarida
 		rida=lugeja.readLine();
 		int puuduvaid=0;
-		double maxtemp=0;
+		double maxv=0;
 		while(rida!=null){
 			String[] m=rida.split(",");
 			 try{
-			  double temperatuur=Double.parseDouble(m[tulbanr]);
+			  double maksimum=Double.parseDouble(m[tulbanr]);
 			  if(alustatud){
-				  if(temperatuur>maxtemp){maxtemp=temperatuur;}
+				  if(maksimum>maxv){maxv=maksimum;}
 			  } else {
-				  maxtemp=temperatuur;
+				  maxv=maksimum;
 				  alustatud=true;
 			  }
 			 } catch(Exception veaandmed){
@@ -42,7 +42,55 @@ public class Andmeuuring{
 		}
 		if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
 		lugeja.close();
-		return maxtemp;
+		return maxv;
 	}
+	public int MituVanurit(int tulbanr) throws IOException{
+		BufferedReader lugeja=kysiLugeja();
+		String rida=lugeja.readLine();
+		rida=lugeja.readLine();
+		int mituVan = 0;
+		while(rida != null){
+			String[] m = rida.split(",");
+			String kontrollm = m[tulbanr];
+ 			if(kontrollm.equals ("100")){
+ 				mituVan++;
+ 			}
+ 			rida = lugeja.readLine();
+ 		}
+ 		lugeja.close();
+ 		return mituVan;
+ 	}
+	public int MituMeest(int tulbanr) throws IOException{
+		BufferedReader lugeja=kysiLugeja();
+		String rida=lugeja.readLine();
+		rida=lugeja.readLine();
+		int mituM = 0;
+		while(rida != null){
+			String[] m = rida.split(",");
+			String kontrollm = m[tulbanr];
+ 			if(kontrollm.equals ("Male")){
+ 				mituM++;
+ 			}
+ 			rida = lugeja.readLine();
+ 		}
+ 		lugeja.close();
+ 		return mituM;
+ 	}
+	public int MituNaist(int tulbanr) throws IOException{
+		BufferedReader lugeja=kysiLugeja();
+		String rida=lugeja.readLine();
+		rida=lugeja.readLine();
+		int mituN = 0;
+		while(rida != null){
+			String[] m = rida.split(",");
+			String kontrollm = m[tulbanr];
+ 			if(kontrollm.equals ("Female")){
+ 				mituN++;
+ 			}
+ 			rida = lugeja.readLine();
+ 		}
+ 		lugeja.close();
+ 		return mituN;
+ 	}
 	
 }
