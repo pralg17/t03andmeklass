@@ -14,7 +14,7 @@ public class Andmeuuring{
 		else {
 			return new BufferedReader(new FileReader(asukoht));
 		}
-	  } catch(Exception ex){		  
+	  } catch(Exception ex){
 		  return null;
 	  }
 	}
@@ -24,15 +24,15 @@ public class Andmeuuring{
 		String rida=lugeja.readLine(); //pealkirjarida
 		rida=lugeja.readLine();
 		int puuduvaid=0;
-		double maxtemp=0;
+		double maxpikkus=0;
 		while(rida!=null){
 			String[] m=rida.split(",");
 			 try{
-			  double temperatuur=Double.parseDouble(m[tulbanr]);
+			  double pikkus=Double.parseDouble(m[tulbanr]);
 			  if(alustatud){
-				  if(temperatuur>maxtemp){maxtemp=temperatuur;}
+				  if(pikkus>maxpikkus){maxpikkus=pikkus;}
 			  } else {
-				  maxtemp=temperatuur;
+				  maxpikkus=pikkus;
 				  alustatud=true;
 			  }
 			 } catch(Exception veaandmed){
@@ -42,7 +42,7 @@ public class Andmeuuring{
 		}
 		if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
 		lugeja.close();
-		return maxtemp;
+		return maxpikkus;
 	}
-	
+
 }
