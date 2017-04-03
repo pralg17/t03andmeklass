@@ -8,7 +8,7 @@ public class Andmeproov{
 	}
 }
 /*
-[johareil@greeny t03andmeklass]$ java Andmeproov
+[siimhtus@greeny t03andmeklass]$ java Andmeproov
 Kõige vanemad inimesed antud andmestikus on 100.0 aastased. Neid on seal kokku 15 tükki
 Mehi on antud andmestikus kokku: 479
 Naisi on antud andmestikus kokku: 521
