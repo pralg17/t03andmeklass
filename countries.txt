@@ -1,0 +1,6 @@
+Estonia,Tallinn,45339,1317797
+Russia,Moscow,17075200,144554993
+Finland,Helsinki,338424,5488543
+Spain,Madrid,505990,46423064
+USA,Washington D.C.,9833520,324676000
+Canada,Ottawa,9984670,35151728
