@@ -21,7 +21,7 @@ public class Andmeuuring{
 	public double maksimum(int tulbanr) throws IOException{
 		BufferedReader lugeja=kysiLugeja();
 		boolean alustatud=false;
-		String rida=lugeja.readLine(); //pealkirjarida
+		String rida=lugeja.readLine();
 		rida=lugeja.readLine();
 		int puuduvaid=0;
 		double maxtemp=0;
@@ -40,9 +40,38 @@ public class Andmeuuring{
 			 }
 			 rida=lugeja.readLine();
 		}
-		if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
+		//if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
 		lugeja.close();
 		return maxtemp;
 	}
+	
+	public double minimum(int tulbanr) throws IOException{
+		BufferedReader lugeja=kysiLugeja();
+		boolean alustatud=false;
+		String rida=lugeja.readLine(); //pealkirjarida mitmenda võtame hiljem
+		rida=lugeja.readLine();
+		int puuduvaid=0;
+		double mintemp=0;
+		while(rida!=null){
+			String[] m=rida.split(",");
+			 try{
+			  double temperatuurmin=Double.parseDouble(m[tulbanr]);
+			  if(alustatud){
+				  if(temperatuurmin<mintemp){mintemp=temperatuurmin;}
+			  } else {
+				  mintemp=temperatuurmin;
+				  alustatud=true;
+			  }
+			 } catch(Exception veaandmed){
+				 puuduvaid++;
+			 }
+			 rida=lugeja.readLine();
+		}
+		//if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
+		lugeja.close();
+		return mintemp;
+	}
+	
+	
 	
 }
