@@ -1,0 +1,6 @@
+linn,sadearv
+Tartu,7200
+Tallinn,6900
+Narva,6200
+Pärnu,7500
+Viljandi,7600
