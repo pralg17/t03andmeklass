@@ -7,3 +7,9 @@ public class Koolid{
 		System.out.println("Tallinnas on " + uuring.linnad(2) + " kooli.");
 	}
 }
+
+/*
+Suurim opilaste arv on 1599 opilasi.
+Madala opilaste arv on 3 opilasi.
+Tallinnas on 80 kooli.
+*/
