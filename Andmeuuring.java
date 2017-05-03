@@ -14,25 +14,25 @@ public class Andmeuuring{
 		else {
 			return new BufferedReader(new FileReader(asukoht));
 		}
-	  } catch(Exception ex){		  
+	  } catch(Exception ex){
 		  return null;
 	  }
 	}
-	public double maksimum(int tulbanr) throws IOException{
+	public double suurimSort(int mitmendasttulbast) throws IOException{
 		BufferedReader lugeja=kysiLugeja();
 		boolean alustatud=false;
 		String rida=lugeja.readLine(); //pealkirjarida
 		rida=lugeja.readLine();
 		int puuduvaid=0;
-		double maxtemp=0;
+		double suurimsort=0;
 		while(rida!=null){
 			String[] m=rida.split(",");
 			 try{
-			  double temperatuur=Double.parseDouble(m[tulbanr]);
+			  double suurim=Double.parseDouble(m[mitmendasttulbast]);
 			  if(alustatud){
-				  if(temperatuur>maxtemp){maxtemp=temperatuur;}
+				  if(suurim>suurimsort){suurimsort=suurim;}
 			  } else {
-				  maxtemp=temperatuur;
+				  suurimsort=suurim;
 				  alustatud=true;
 			  }
 			 } catch(Exception veaandmed){
@@ -40,9 +40,35 @@ public class Andmeuuring{
 			 }
 			 rida=lugeja.readLine();
 		}
-		if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
+		if(puuduvaid>0){System.err.println("Väärtused, mis on puudu "+puuduvaid);}
 		lugeja.close();
-		return maxtemp;
+		return suurimsort;
 	}
-	
+		public int mituAntoonovkat(int mitmendasttulbast) throws IOException{
+ 		BufferedReader lugeja=kysiLugeja();
+ 		String rida=lugeja.readLine();
+ 		rida=lugeja.readLine();
+ 		int mituAntoonovkat = 0;
+
+
+ 		while(rida != null){
+ 			String[] m = rida.split(",");
+ 			String kontroll_m = m[mitmendasttulbast];
+ 			if(kontroll_m.equals ("Antoonovka")){
+ 				mituAntoonovkat++;
+ 			}
+
+ 			rida = lugeja.readLine();
+ 		}
+ 		lugeja.close();
+ 		return mituAntoonovkat;
+ 	}
 }
+
+
+	/*
+[heinparn@greeny t03andmeklass]$ javac *.java
+[heinparn@greeny t03andmeklass]$ java Proov1
+Andmete hulgast suurim õunasort on 10.63
+Antoonovkaid oli andmehulgas: 32
+*/
