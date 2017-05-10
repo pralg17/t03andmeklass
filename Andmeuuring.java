@@ -18,7 +18,7 @@ public class Andmeuuring{
 		  return null;
 	  }
 	}
-	public double maksimum(int tulbanr) throws IOException{
+	public double minimum(int tulbanr) throws IOException{
 		BufferedReader lugeja=kysiLugeja();
 		boolean alustatud=false;
 		String rida=lugeja.readLine(); //pealkirjarida
@@ -30,7 +30,7 @@ public class Andmeuuring{
 			 try{
 			  double temperatuur=Double.parseDouble(m[tulbanr]);
 			  if(alustatud){
-				  if(temperatuur>maxtemp){maxtemp=temperatuur;}
+				  if(temperatuur<maxtemp){maxtemp=temperatuur;}
 			  } else {
 				  maxtemp=temperatuur;
 				  alustatud=true;
