@@ -1,8 +1,8 @@
 import java.io.*;
 import java.net.*;
-public class Andmeuuring{
+public class Uuring{
 	String asukoht;
-	public Andmeuuring(String asukoht){
+	public Uuring(String asukoht){
 		this.asukoht=asukoht;
 	}
 	BufferedReader kysiLugeja(){
@@ -14,7 +14,7 @@ public class Andmeuuring{
 		else {
 			return new BufferedReader(new FileReader(asukoht));
 		}
-	  } catch(Exception ex){		  
+	  } catch(Exception ex){
 		  return null;
 	  }
 	}
@@ -23,26 +23,26 @@ public class Andmeuuring{
 		boolean alustatud=false;
 		String rida=lugeja.readLine(); //pealkirjarida
 		rida=lugeja.readLine();
-		int puuduvaid=0;
-		double maxtemp=0;
+		int pole=0;
+		double maxpikkus=0;
 		while(rida!=null){
 			String[] m=rida.split(",");
 			 try{
-			  double temperatuur=Double.parseDouble(m[tulbanr]);
+			  double pikkus=Double.parseDouble(m[tulbanr]);
 			  if(alustatud){
-				  if(temperatuur>maxtemp){maxtemp=temperatuur;}
+				  if(pikkus>maxpikkus){maxpikkus=pikkus;}
 			  } else {
-				  maxtemp=temperatuur;
+				  maxpikkus=pikkus;
 				  alustatud=true;
 			  }
 			 } catch(Exception veaandmed){
-				 puuduvaid++;
+				 pole++;
 			 }
 			 rida=lugeja.readLine();
 		}
-		if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
+		if(pole>0){System.err.println("Puuudu "+pole);}
 		lugeja.close();
-		return maxtemp;
+		return maxpikkus;
 	}
-	
+
 }
