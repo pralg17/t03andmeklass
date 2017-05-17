@@ -1,0 +1,6 @@
+Jaanus,Okaspuu,45339,50
+Mark,Valjak,15102,95
+Romil,Wizard,53491,55
+Markus,Laar,10393,20
+Katlin,Rebane,11100,80
+Karel,Allik,12312,13
