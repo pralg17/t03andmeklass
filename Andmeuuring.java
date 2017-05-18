@@ -18,31 +18,35 @@ public class Andmeuuring{
 		  return null;
 	  }
 	}
-	public double maksimum(int tulbanr) throws IOException{
+	public double punktMax(int mitmes) throws IOException{
 		BufferedReader lugeja=kysiLugeja();
 		boolean alustatud=false;
 		String rida=lugeja.readLine(); //pealkirjarida
 		rida=lugeja.readLine();
 		int puuduvaid=0;
-		double maxtemp=0;
+		double punktMax=0;
 		while(rida!=null){
 			String[] m=rida.split(",");
+			
 			 try{
-			  double temperatuur=Double.parseDouble(m[tulbanr]);
-			  if(alustatud){
-				  if(temperatuur>maxtemp){maxtemp=temperatuur;}
-			  } else {
-				  maxtemp=temperatuur;
-				  alustatud=true;
-			  }
+				 
+				double punktid=Double.parseDouble(m[mitmes]);
+				if(alustatud){	
+					if(punktid>punktMax){
+						punktMax=punktid;
+						}
+				} else {
+					punktMax=punktid;
+					alustatud=true;
+				}
 			 } catch(Exception veaandmed){
 				 puuduvaid++;
 			 }
 			 rida=lugeja.readLine();
 		}
-		if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
+		if(puuduvaid>0){System.err.println("Puudu "+puuduvaid);}
 		lugeja.close();
-		return maxtemp;
+		return punktMax;
 	}
 	
 }
