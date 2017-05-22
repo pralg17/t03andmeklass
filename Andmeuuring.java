@@ -1,48 +1,53 @@
 import java.io.*;
 import java.net.*;
+
 public class Andmeuuring{
-	String asukoht;
-	public Andmeuuring(String asukoht){
-		this.asukoht=asukoht;
+	String location;
+	public Andmeuuring(String location){
+		this.location=location;
 	}
-	BufferedReader kysiLugeja(){
+	BufferedReader getReader(){
 	  try{
-		if(asukoht.startsWith("http://")){
+		if(location.startsWith("http://")){
 			return new BufferedReader(new InputStreamReader(
-			   new URL(asukoht).openConnection().getInputStream()));
+			   new URL(location).openConnection().getInputStream()));
 		}
 		else {
-			return new BufferedReader(new FileReader(asukoht));
+			return new BufferedReader(new FileReader(location));
 		}
 	  } catch(Exception ex){		  
 		  return null;
 	  }
 	}
-	public double maksimum(int tulbanr) throws IOException{
-		BufferedReader lugeja=kysiLugeja();
-		boolean alustatud=false;
-		String rida=lugeja.readLine(); //pealkirjarida
-		rida=lugeja.readLine();
-		int puuduvaid=0;
-		double maxtemp=0;
-		while(rida!=null){
-			String[] m=rida.split(",");
+	public String maximum(int reanumber) throws IOException{
+		BufferedReader reader=getReader();
+		boolean started=false;
+		String line=reader.readLine(); //pealkirjaline
+		String[] reanimi = line.split(",");
+		String title = reanimi[reanumber];
+		line=reader.readLine();
+		int missing=0;
+		double max=0;
+		while(line!=null){
+			String[] m=line.split(",");
 			 try{
-			  double temperatuur=Double.parseDouble(m[tulbanr]);
-			  if(alustatud){
-				  if(temperatuur>maxtemp){maxtemp=temperatuur;}
+			  double rowinfo=Double.parseDouble(m[reanumber]);
+			  if(started){
+				  if(rowinfo>max){max=rowinfo;}
 			  } else {
-				  maxtemp=temperatuur;
-				  alustatud=true;
+				  max=rowinfo;
+				  started=true;
 			  }
-			 } catch(Exception veaandmed){
-				 puuduvaid++;
+			 } catch(Exception dataerror){
+				 missing++;
 			 }
-			 rida=lugeja.readLine();
+			 line=reader.readLine();
 		}
-		if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
-		lugeja.close();
-		return maxtemp;
+		if(missing>0){System.err.println("Puudu "+missing);}
+		reader.close();
+		return "Kõige suurema "+title+" sisaldusega komm: " + max;
+		
+		
 	}
 	
 }
