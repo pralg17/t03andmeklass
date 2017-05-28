@@ -1,0 +1,3 @@
+diskreetsed struktuurid,andmebaasid,programmeerimine,eesrakenduste arendamine
+A,B,C,D
+6,5,3,4
