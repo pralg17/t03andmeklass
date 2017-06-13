@@ -21,18 +21,18 @@ public class Andmeuuring{
 	public double maksimum(int tulbanr) throws IOException{
 		BufferedReader lugeja=kysiLugeja();
 		boolean alustatud=false;
-		String rida=lugeja.readLine(); //pealkirjarida
+		String rida=lugeja.readLine();
 		rida=lugeja.readLine();
 		int puuduvaid=0;
-		double maxtemp=0;
+		double maxSkoor=0;
 		while(rida!=null){
 			String[] m=rida.split(",");
 			 try{
-			  double temperatuur=Double.parseDouble(m[tulbanr]);
+			  double skoor=Double.parseDouble(m[tulbanr]);
 			  if(alustatud){
-				  if(temperatuur>maxtemp){maxtemp=temperatuur;}
+				  if(skoor>maxSkoor){maxSkoor=skoor;}
 			  } else {
-				  maxtemp=temperatuur;
+				  maxSkoor=skoor;
 				  alustatud=true;
 			  }
 			 } catch(Exception veaandmed){
@@ -42,7 +42,7 @@ public class Andmeuuring{
 		}
 		if(puuduvaid>0){System.err.println("Puuudu "+puuduvaid);}
 		lugeja.close();
-		return maxtemp;
+		return maxSkoor;
 	}
 	
 }
