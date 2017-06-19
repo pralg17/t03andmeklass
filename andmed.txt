@@ -1,0 +1,6 @@
+nimi1 10.33
+nimi2 13.25
+nimi3 9.86
+nimi4 11.98
+nimi5 9.43
+nimi6 12.01
